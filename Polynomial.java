@@ -53,4 +53,8 @@ public class Polynomial {
 
 		return isRoot;
 	}
+
+	public void foo() {
+		System.out.println("foo");
+	}
 }
