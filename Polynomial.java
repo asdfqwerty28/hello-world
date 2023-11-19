@@ -56,5 +56,6 @@ public class Polynomial {
 
 	public void foo() {
 		System.out.println("foo");
+		System.out.println("foo2");
 	}
 }
